@@ -1,0 +1,5 @@
+ chmod u=rwx file1 
+ chmod a+r file1 
+ chmod g+rw file1 
+ chmod ug-w file1 
+ chmod a=rwx file1
